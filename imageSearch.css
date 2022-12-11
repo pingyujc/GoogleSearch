@@ -1,13 +1,10 @@
 body{
-    
     margin-top: 20%;
     text-align: center;
-}/*
-form,h1{
-    margin-top: 20%;
-}*/
+}
+
 h1{
-    color:rgb(135, 194, 242);
+    color:rgb(196, 119, 245);
     font-size: 70px;
 }
 
@@ -27,3 +24,7 @@ input.search{
     cursor: pointer;
 }
 
+a{
+    position: relative;
+    text-align: right;
+}
