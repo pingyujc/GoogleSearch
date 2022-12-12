@@ -1,0 +1,46 @@
+body{
+    margin-top: 18%;
+    text-align: center;
+}
+
+h1{
+    color:rgb(196, 119, 245);
+    font-size: 70px;
+}
+
+input.name{
+    width: 70%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+}
+input.search{
+    width: 30%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+div{
+    position: absolute;
+    top: 0;
+    right: 0;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/*
+a.mainSearch{
+    float: right;
+    color:blueviolet;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+a.imageSearch{
+    float: right;
+    color:blueviolet;
+  
+}*/
